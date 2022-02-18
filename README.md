@@ -31,10 +31,9 @@ ex. server.20220218.log
 - 進入專案根目錄, 執行  
 `
 node json-server.js
+`  
+您將可以看到執行訊息,   
 `
-您將可以看到執行訊息,  
-`
-% node json-server.js
 [2022-02-18T14:39:36.493] [INFO] default - json-server config: C:\Develop\Nodejs\Projects\json-server\config\host.json loaded.server\config\host.json loaded.
 [2022-02-18T14:39:36.501] [INFO] default - Your json-server running at http://10.129.130.103:8000
 [2022-02-18T14:39:36.504] [INFO] default - /api/user/user1 added to route path. 
@@ -44,7 +43,7 @@ node json-server.js
 ## 6. 測試
 - 開啟您的瀏覽器, 輸入網址
 http://hostName:port/api/user/user1
-您將能看到user1的json檔案資料.
+您將能看到user1的json檔案資料.  
 `
 {
   "id": "user1",
