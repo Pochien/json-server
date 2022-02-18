@@ -1,0 +1,31 @@
+[2022-02-18T14:38:49.405] [INFO] default - json-server config: C:\Develop\Nodejs\Projects\json-server\config\host.json loaded.
+[2022-02-18T14:38:49.413] [INFO] default - Your json-server running at http://10.129.130.103:8000
+[2022-02-18T14:38:49.416] [INFO] default - /api/user/user1 added to route path.
+[2022-02-18T14:38:49.416] [INFO] default - /api/user/users added to route path.
+[2022-02-18T14:39:36.493] [INFO] default - json-server config: C:\Develop\Nodejs\Projects\json-server\config\host.json loaded.
+[2022-02-18T14:39:36.501] [INFO] default - Your json-server running at http://10.129.130.103:8000
+[2022-02-18T14:39:36.504] [INFO] default - /api/user/user1 added to route path.
+[2022-02-18T14:39:36.504] [INFO] default - /api/user/users added to route path.
+[2022-02-18T14:40:06.484] [INFO] default - json file C:\Develop\Nodejs\Projects\json-server\json\api\user\user1.json loaded.
+[2022-02-18T14:40:06.485] [INFO] default - /api/user/user1 requested, response data: {
+  "id": "user1",
+  "name": "user1",
+  "password": "pwd",
+  "email": "a@domainname"
+}
+[2022-02-18T21:06:42.371] [INFO] default - json-server config: C:\Develop\Nodejs\Projects\json-server\config\host.json loaded.
+[2022-02-18T21:06:42.380] [INFO] default - Your json-server running at http://10.129.130.103:8000
+[2022-02-18T21:06:42.383] [INFO] default - /api/user/user1 added to route path.
+[2022-02-18T21:06:42.384] [INFO] default - /api/user/users added to route path.
+[2022-02-18T21:07:18.020] [INFO] default - /api/user/users requested, response data: {
+  "id": "query01",
+  "ts": "2021/09/14 15:31:09.110",
+  "users": [
+    {
+      "id": "user1",
+      "name": "user1",
+      "password": "pwd",
+      "email": "a@domainname"
+    }
+  ]
+}

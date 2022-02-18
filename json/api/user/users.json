@@ -1,0 +1,12 @@
+{
+  "id": "query01",
+  "ts": "2021/09/14 15:31:09.110",
+  "users": [
+    {
+      "id": "user1",
+      "name": "user1",
+      "password": "pwd",
+      "email": "a@domainname"
+    }
+  ]
+}
